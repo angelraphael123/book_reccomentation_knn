@@ -1,5 +1,4 @@
 # book_reccomentation_knn
-# Book Recommendation System
 
 This project implements a **Book Recommendation System** using the **K-Nearest Neighbors (KNN)** algorithm. The system is built with the **Book-Crossings dataset**, providing personalized book recommendations based on user ratings.
 
@@ -61,3 +60,24 @@ Dataset Source: [Book-Crossings dataset](https://cdn.freecodecamp.org/project-da
    ```bash
    git clone https://github.com/your-username/book-recommendation-system.git
    cd book-recommendation-system
+## **Example Recommendations**
+Book Title: Where the Heart Is (Oprah's Book Club (Paperback))
+Output:
+The Lovely Bones: A Novel
+I Know This Much Is True
+The Surgeon
+The Weight of Water
+I'll Be Seeing You
+
+---
+
+## **Results**
+Results
+-The project successfully passed the recommendation test with the following results:
+-Distances and indices are accurately calculated.
+-Recommendations align closely with expected values.
+
+---
+
+## **License**
+-This project is licensed under the MIT License.
