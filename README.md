@@ -12,7 +12,6 @@ This project implements a **Book Recommendation System** using the **K-Nearest N
 - [How to Run](#how-to-run)
 - [Example Recommendations](#example-recommendations)
 - [Results](#results)
-- [License](#license)
 
 ---
 
@@ -78,6 +77,3 @@ Results
 -Recommendations align closely with expected values.
 
 ---
-
-## **License**
--This project is licensed under the MIT License.
